@@ -43,4 +43,4 @@ class Main : Object {
 
 ## Tests
 The tests used for this project were kindly provided by a colleague — many thanks! :Koteseni: \
-You can find the tests here: [Kubikuli/IPP_proj2-tests](https://github.com/Kubikuli/IPP_proj2-tests)
+You can find the tests here: [Marek324/butfit-ipp1-tests](https://github.com/Marek324/butfit-ipp1-tests/tree/master)
