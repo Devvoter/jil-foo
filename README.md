@@ -5,6 +5,15 @@ A filter-type script (parse.py in Python 3.11) reads source code in SOL25
 semantic correctness of the code, and outputs the XML representation of the program's 
 abstract syntax tree to standard output according to the specification in section 4.1.
 
+## 📁 Project Structure
+- `parse.py` – main script that parses SOL25 source code and outputs an XML AST
+- `ipp25spec.pdf` – official specification of the IPP project (includes SOL25 language rules)
+- `readme1.pdf` – report/documentation describing the implementation and design
+- `requirements.txt` – dependencies for  development
+- `sol_1.sol25` – example SOL25 source file used for demonstration or testing
+- `README.md` – this file with usage instructions and project info
+
+
 ## Setup:
 ```
 ..clone repo
